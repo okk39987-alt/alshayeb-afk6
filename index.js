@@ -13,7 +13,7 @@ const client = new Client({
 });
 
 // 📌 حط أيدي الروم الصوتي وأيدي السيرفر حقك هنا (بدون أي رموز زيادة)
-const VOICE_CHANNEL_ID = "1530667204948005048";
+const VOICE_CHANNEL_ID = "1508662405490544790";
 const GUILD_ID = "1402711345929130106";
 
 client.once('ready', async () => {
